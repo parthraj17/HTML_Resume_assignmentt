@@ -2,5 +2,8 @@
 
 It is bascially a simple resume making assignment only using Html
 
-For Demo I took screentoshts and uploaded here
+For Demo I took screentoshts 
+
+##ScreenRecording for demo
+https://x.com/parthjadhav379/status/2016455359591031285
 
